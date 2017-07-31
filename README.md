@@ -3,7 +3,7 @@ This README is intended to provide the necessary steps to reproduce the results,
 
 **The discovery potential of RNA processing profiles**
 
-*Amadís Pagès, Ivan Dotu, Roderic Guigó and Eduardo Eyras*
+*Amadís Pagès, Ivan Dotu, Joan Pallarés-Albanell, Eulàlia Martí, Roderic Guigó and Eduardo Eyras*
 
 [bioRxiv](http://biorxiv.org/content/early/2016/04/22/049809)
 
